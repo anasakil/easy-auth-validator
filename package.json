@@ -1,0 +1,23 @@
+{
+  "name": "easy-auth-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasakil/easy-auth-validator.git"
+  },
+  "keywords": [
+    "validation",
+    "auth"
+  ],
+  "author": "anas akil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasakil/easy-auth-validator/issues"
+  },
+  "homepage": "https://github.com/anasakil/easy-auth-validator#readme"
+}
