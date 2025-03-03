@@ -17,10 +17,7 @@ A lightweight and intuitive library for validating registration and login forms,
 - [Configuration Options](#configuration-options)
 - [Return Structure](#return-structure)
 - [Examples](#examples)
-- [Adding to npm](#adding-to-npm)
-- [Publishing](#publishing)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
